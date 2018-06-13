@@ -106,6 +106,25 @@
       "requireSameDimensions": true
     },
     {
+      "label": "punctuation and grammar",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "http://127.0.0.1:4000/punctuation-grammar/",
+      "referenceUrl": "https://guides.service.gov.au/content-guide/punctuation-grammar/",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 0,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold" : 0,
+      "requireSameDimensions": true
+    },
+    {
       "label": "terms and phrases",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url": "http://127.0.0.1:4000/terms-phrases/",
