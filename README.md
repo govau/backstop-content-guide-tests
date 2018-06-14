@@ -1,8 +1,8 @@
 # backstop-guides-tests
 Backstop visual regression tests for guides.service.gov.au/content-guide/
 
-Usage:
-`backstop test`
+Create reference snapshots from Production:
+`backstop reference`
 
-Approve:
-`backstop approve`
+Compare localhost to production:
+`backstop test`
