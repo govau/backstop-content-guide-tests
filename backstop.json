@@ -13,7 +13,7 @@
     {
       "label": "Content Guide Homepage",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/",
+      "url": "https://content-guide.apps.y.cld.gov.au/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/",
       "readyEvent": "",
       "readySelector": "",
@@ -32,7 +32,7 @@
     {
       "label": "how to use this guide",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/how-to-use-guide/",
+      "url": "https://content-guide.apps.y.cld.gov.au/how-to-use-guide/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/how-to-use-guide/",
       "readyEvent": "",
       "readySelector": "",
@@ -51,7 +51,7 @@
     {
       "label": "content structure",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/content-structure/",
+      "url": "https://content-guide.apps.y.cld.gov.au/content-structure/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/content-structure/",
       "readyEvent": "",
       "readySelector": "",
@@ -70,7 +70,7 @@
     {
       "label": "writing style",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/writing-style/",
+      "url": "https://content-guide.apps.y.cld.gov.au/writing-style/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/writing-style/",
       "readyEvent": "",
       "readySelector": "",
@@ -89,7 +89,7 @@
     {
       "label": "accessibility and inclusivity",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/accessibility-inclusivity/",
+      "url": "https://content-guide.apps.y.cld.gov.au/accessibility-inclusivity/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/accessibility-inclusivity/",
       "readyEvent": "",
       "readySelector": "",
@@ -108,7 +108,7 @@
     {
       "label": "punctuation and grammar",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/punctuation-grammar/",
+      "url": "https://content-guide.apps.y.cld.gov.au/punctuation-grammar/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/punctuation-grammar/",
       "readyEvent": "",
       "readySelector": "",
@@ -127,7 +127,7 @@
     {
       "label": "terms and phrases",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/terms-phrases/",
+      "url": "https://content-guide.apps.y.cld.gov.au/terms-phrases/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/terms-phrases/",
       "readyEvent": "",
       "readySelector": "",
@@ -146,7 +146,7 @@
     {
       "label": "numbers and measures",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/numbers-measurements/",
+      "url": "https://content-guide.apps.y.cld.gov.au/numbers-measurements/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/numbers-measurements/",
       "readyEvent": "",
       "readySelector": "",
@@ -165,7 +165,7 @@
     {
       "label": "formatting",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/formatting/",
+      "url": "https://content-guide.apps.y.cld.gov.au/formatting/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/formatting/",
       "readyEvent": "",
       "readySelector": "",
@@ -184,7 +184,7 @@
     {
       "label": "types of content",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/types-of-content/",
+      "url": "https://content-guide.apps.y.cld.gov.au/types-of-content/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/types-of-content/",
       "readyEvent": "",
       "readySelector": "",
@@ -203,7 +203,7 @@
     {
       "label": "writing for search engines",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/search-engines/",
+      "url": "https://content-guide.apps.y.cld.gov.au/search-engines/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/search-engines/",
       "readyEvent": "",
       "readySelector": "",
@@ -222,7 +222,7 @@
     {
       "label": "sources",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/sources/",
+      "url": "https://content-guide.apps.y.cld.gov.au/sources/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/sources/",
       "readyEvent": "",
       "readySelector": "",
@@ -241,7 +241,7 @@
     {
       "label": "privacy statement",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "http://127.0.0.1:4000/privacy/",
+      "url": "https://content-guide.apps.y.cld.gov.au/privacy/",
       "referenceUrl": "https://guides.service.gov.au/content-guide/privacy/",
       "readyEvent": "",
       "readySelector": "",
